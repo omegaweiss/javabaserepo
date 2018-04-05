@@ -25,7 +25,7 @@ public class Exrcice11bases {
 		
 		System.out.println("Bonjour! " + nombreADevine);
 		
-		// Ce processus va s'éxecuter tant que le nomre 
+		// Ce processus va s'éxecuter tant que le nombre 
 		// que l'user reseigne n'est celui généré
 		// quand l'user trouve enfin le nombre
 		// Le system lui affiche un message pour le lui signalier
